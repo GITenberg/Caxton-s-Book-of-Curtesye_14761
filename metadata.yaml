@@ -1,0 +1,30 @@
+_repo: Caxton-s-Book-of-Curtesye_14761
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Furnivall, Frederick James
+    alias: Furnivall, F. J. (Frederick James)
+    birthdate: 1825
+    deathdate: 1910
+    gutenberg_agent_id: '5672'
+    url: http://www.gutenberg.org/2009/agents/5672
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_James_Furnivall
+description: ''
+gutenberg_bookshelf: Early English Text Society
+gutenberg_issued: '2005-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 1066-1485 -- Sources'
+- !lcsh 'Courtesy'
+title: Caxton's Book of Curtesye
+url: http://www.gutenberg.org/ebooks/14761
